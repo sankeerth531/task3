@@ -1,0 +1,71 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"sankeerth",
+				"role":"Student",
+				"email":"sankeerth53135@gmail.com",
+				"mobile":"1215488956",
+				"gender":"male",
+				"address":"mylavaram"
+
+			},
+			"summery":[
+				"studying in lbrce clg."
+			],
+			"education":[
+				{
+                    "degree":"B-Tech ",
+                    "institute":"Lbrce",
+                    "result":"83%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"chaitanya College",
+                    "result":"97%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":" narayana school",
+                    "result":"90%"
+				}
+
+
+			]
+		},
+	    {
+	    	"basics":{
+				"name":"sai",
+				"role":"Student",
+				"email":"saireddy74747@gmail.com",
+				"mobile":"557897846843",
+				"gender":"male",
+				"address":"vijayawada,Andhra pradesh"
+
+			},
+			"summery":[
+				"studying in lbrce clg in cse department."
+			],
+			"education":[
+				{
+                    "degree":"B-Tech ",
+                    "institute":"Lbrce",
+                    "result":"92%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"narayana College",
+                    "result":"93%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"chaitanya school",
+                    "result":"94%"
+				}
+
+
+			]
+	    }
+		
+	]
+}
